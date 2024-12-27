@@ -1,0 +1,31 @@
+@font-face {
+  font-family: bebasneuecyrillic;
+  font-display: swap;
+  src: url("../fonts/bebasneuecyrillic.woff2") format("woff2"), url("../fonts/bebasneuecyrillic.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Inter_24pt;
+  font-display: swap;
+  src: url("../fonts/Inter_24pt-Light.woff2") format("woff2"), url("../fonts/Inter_24pt-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Inter_24pt;
+  font-display: swap;
+  src: url("../fonts/Inter_24pt-Medium.woff2") format("woff2"), url("../fonts/Inter_24pt-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Inter_24pt;
+  font-display: swap;
+  src: url("../fonts/Inter_24pt-Regular.woff2") format("woff2"), url("../fonts/Inter_24pt-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
